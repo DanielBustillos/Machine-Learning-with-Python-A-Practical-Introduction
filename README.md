@@ -1,4 +1,4 @@
-# Course-Dashborad-Machine-Learning-with-Python-A-Practical-Introduction
+# Course development - Machine Learning with Python A Practical Introduction
 
 ##  edX IBM: ML0101EN ##
 Machine Learning with Python: A Practical Introduction 
